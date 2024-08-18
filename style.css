@@ -1,0 +1,81 @@
+button{
+    background-color:blueviolet;
+}
+#song{
+    color:brown
+}
+.odd{
+    background-color:blueviolet;
+}
+#hh{
+    font-family: Verdana, Arial,;
+    text-align: center;
+}
+#who{
+    font-size: 2em;
+    font-weight:bold;
+    font-style: oblique;
+}
+#but{
+    background-color: orange;
+    color:white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+}
+#form{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 20px;
+}
+#formh{
+    text-align: center;
+    color: brown;
+    
+}
+#htmlh{
+    text-align: center;
+}
+#box{
+    color: blue;
+}
+#th1{
+
+}
+.box{
+    border: 500px solid;
+    font-size: 10em;
+    width: 500px;
+    height: 500px ;
+}
+#img1{
+    float: left;
+}
+
+.container1{
+    border: 5px solid;
+    height: auto;
+    width: 800px;
+    padding: 25px;
+    box-sizing: border-box;
+    float:left;
+    background-color: brown;
+    min-width: 50px;
+    min-height: 30px;
+    text-align:center ;
+}
+
+#boxxx1{height: 200px;
+width: 200px;
+background-color: rgb(119, 42, 207);
+background-color: blanchedalmond;
+}
+#boxxx2{background-color: rgb(28, 209, 209);}
+
+
+
+
+@font-face{ 
+    src:url(s);
+    font-family: roboto-light;
+}
